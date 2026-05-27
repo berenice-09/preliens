@@ -181,7 +181,6 @@
 
 .pl-lieu-sub {
     font-size: 10px;
-    letter-spacing: 2px;
     text-transform: uppercase;
     color: var(--contrast);
     margin-top: 2px;
@@ -190,7 +189,7 @@
 
 .pl-desc {
     font-size: 12px;
-    line-height: 1.7;
+    line-height: 1.5;
     color: var(--textColor);
     font-family: 'Open Sans', sans-serif;
 }
@@ -268,7 +267,7 @@
 }
 
 .pl-role-d {
-    font-size: 10px;
+    font-size: 9px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     color: var(--contrast);
